@@ -1,5 +1,5 @@
 {"id": "c01", "text": "Thẻ ATM của tôi bị nuốt ở cây ATM đường Láng lúc 9h sáng nay, tôi cần lấy lại thẻ gấp vì chiều phải thanh toán tiền viện cho mẹ.", "category": "card", "urgency": "high", "legal": false}
-{"id": "c02", "text": "Tôi chuyển 15 triệu sang tài khoản Vietcombank từ hôm qua mà bên nhận vẫn chưa nhận được, tài khoản tôi đã bị trừ tiền. Đề nghị kiểm tra.", "category": "transfer", "urgency": "high", "legal": false}
+{"id": "c02", "text": "Tôi chuyển 15 triệu sang tài khoản ở ngân hàng khác từ hôm qua mà bên nhận vẫn chưa nhận được, tài khoản tôi đã bị trừ tiền. Đề nghị kiểm tra.", "category": "transfer", "urgency": "high", "legal": false}
 {"id": "c03", "text": "Sáng nay tôi nhận tin nhắn trừ 4.990.000đ mua hàng online nhưng tôi không hề thực hiện giao dịch này. Thẻ tôi vẫn đang cầm trên tay. Số thẻ 4111 1111 1111 1111.", "category": "fraud", "urgency": "high", "legal": false}
 {"id": "c04", "text": "Có người gọi điện số 0912345678 xưng là nhân viên ngân hàng, bảo tôi đọc mã OTP để nâng hạng thẻ. Tôi lỡ đọc rồi, giờ phải làm sao?", "category": "fraud", "urgency": "high", "legal": false}
 {"id": "c05", "text": "Kỳ trả nợ tháng này của khoản vay mua xe bị tính lãi cao hơn lịch trả nợ trong hợp đồng khoảng 300 nghìn. Nhờ ngân hàng giải thích.", "category": "loan", "urgency": "normal", "legal": false}

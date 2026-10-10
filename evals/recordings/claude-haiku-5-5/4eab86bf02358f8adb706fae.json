@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "transfer",
+  "urgency": "high",
+  "summary": "Khách hàng chuyển 15 triệu đồng sang ngân hàng khác từ hôm qua, tiền đã bị trừ khỏi tài khoản nhưng người nhận vẫn chưa nhận được, và yêu cầu ngân hàng kiểm tra giao dịch.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 863,
+  "output_tokens": 135,
+  "cost_usd": 0.0001538,
+  "seconds": 2.579
+ }
+}
