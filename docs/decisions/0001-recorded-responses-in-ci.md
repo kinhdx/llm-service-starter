@@ -17,5 +17,6 @@ request re-records with a key and commits the recordings with the change.
 - CI needs no API key and the gate is deterministic.
 - An unrecorded change fails the gate with the case ID, so an untested prompt cannot merge.
 - The diff of `evals/recordings/` shows which answers changed in review.
-- Recordings reflect the model at the time they were made. A scheduled job should re-record against the live
-  model (weekly, or when the provider announces a model update) to catch drift.
+- Recordings reflect the model at the time they were made. A weekly job (`.github/workflows/drift-check.yml`)
+  runs the evaluation against the live model without saving; when it fails, re-record and review the changed
+  answers.

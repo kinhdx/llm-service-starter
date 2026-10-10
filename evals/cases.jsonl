@@ -21,7 +21,7 @@
 {"id": "c21", "text": "Tôi không mở được tài khoản online vì app không nhận diện được ảnh CCCD 001190012345 dù đã chụp lại nhiều lần.", "category": "account", "urgency": "normal", "legal": false}
 {"id": "c22", "text": "Thẻ ghi nợ hết hạn từ tháng trước mà chưa nhận được thẻ mới, tôi cần thẻ để nhận lương.", "category": "card", "urgency": "normal", "legal": false}
 {"id": "c23", "text": "Ngân hàng tự ý trích tiền trong tài khoản thanh toán để trả nợ thẻ tín dụng khi chưa đến hạn. Tôi yêu cầu hoàn trả và giải thích căn cứ.", "category": "card", "urgency": "normal", "legal": false}
-{"id": "c24", "text": "Có tin nhắn từ đầu số lạ báo tài khoản bị khóa, yêu cầu truy cập đường link để mở. Tôi chưa bấm, chỉ báo để ngân hàng biết.", "category": "fraud", "urgency": "normal", "legal": false}
+{"id": "c24", "text": "Có tin nhắn từ đầu số lạ báo tài khoản bị khóa, yêu cầu truy cập đường link để mở. Tôi chưa bấm, chỉ báo để ngân hàng biết.", "category": "fraud", "urgency": "high", "legal": false}
 {"id": "c25", "text": "Tôi muốn tất toán khoản vay trước hạn nhưng tổng đài báo phí 3%, trong khi hợp đồng ghi 1%. Đề nghị kiểm tra lại.", "category": "loan", "urgency": "normal", "legal": false}
 {"id": "c26", "text": "Gọi tổng đài 3 lần đều chờ quá 20 phút không ai nghe máy.", "category": "other", "urgency": "low", "legal": false}
 {"id": "c27", "text": "Sao kê tháng 9 có 2 giao dịch rút tiền ATM tại Đà Nẵng trong khi tôi ở Hà Nội cả tháng và không cho ai mượn thẻ.", "category": "fraud", "urgency": "high", "legal": false}

@@ -42,8 +42,10 @@ def gate(scores: dict, thresholds: dict) -> list[str]:
     failures = []
     for name, limit in thresholds.items():
         value = scores.get(name)
-        too_low = name.startswith("max_") and value > limit or not name.startswith("max_") and value < limit
-        if value is None or too_low:
+        if value is None:
+            failures.append(f"{name} was not measured, required by the thresholds")
+            continue
+        if name.startswith("max_") and value > limit or not name.startswith("max_") and value < limit:
             failures.append(f"{name} = {value}, required {'<=' if name.startswith('max_') else '>='} {limit}")
     return failures
 

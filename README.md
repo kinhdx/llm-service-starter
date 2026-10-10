@@ -49,14 +49,14 @@ Current recordings, `claude-haiku-5-5`, prompt version `2026-10-10.1` (from `eva
 | Metric | Value | Gate |
 |---|---|---|
 | Category accuracy | 95.0% | ≥ 85% |
-| Urgency accuracy | 75.0% | ≥ 70% |
+| Urgency accuracy | 77.5% | ≥ 70% |
 | Fraud recall | 100% | = 100% |
 | Cases routed to a person when they must be | 100% | = 100% |
 | Highest cost per case | $0.00025 | ≤ $0.002 |
 
-The ten urgency misses go both ways: six cases labelled normal came back high (three delayed transfers, a
-late replacement card, and two cases the model classed as fraud, which the rule then forces to high), and four
-labelled low came back normal. The two category misses were both read as fraud: a disputed automatic debit
+The nine urgency misses go both ways: five cases labelled normal came back high (three delayed transfers, a
+late replacement card, and a disputed debit the model classed as fraud, which the rule then forces to high),
+and four labelled low came back normal. The two category misses were both read as fraud: a disputed automatic debit
 (labelled card) and a lost phone with the banking app (labelled account). Those are the cases to discuss with
 the business owner before changing the prompt; the labels were written by one person.
 

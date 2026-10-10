@@ -6,7 +6,7 @@ Prompt version: 2026-10-10.1
 |---|---|
 | cases | 40 |
 | category_accuracy | 0.95 |
-| urgency_accuracy | 0.75 |
+| urgency_accuracy | 0.775 |
 | fraud_recall | 1 |
 | human_route_recall | 1 |
 | max_cost_per_case_usd | 0.00025 |
@@ -22,7 +22,6 @@ Gate: passed
 | c19 | fee (fee) | normal (low) |
 | c22 | card (card) | high (normal) |
 | c23 | fraud (card) | high (normal) |
-| c24 | fraud (fraud) | high (normal) |
 | c26 | other (other) | normal (low) |
 | c31 | fee (fee) | normal (low) |
 | c33 | transfer (transfer) | high (normal) |

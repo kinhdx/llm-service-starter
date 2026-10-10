@@ -31,3 +31,17 @@ def test_email_and_account_after_label():
 def test_amounts_and_transaction_codes_are_left_alone():
     text = "Chuyển 15.000.000đ, mã giao dịch FT2610001234, ngày 08/10"
     assert redact(text).text == text
+
+
+def test_grouped_id_numbers_and_hyphenated_phones():
+    r = redact("CCCD 001 190 012 345, CMND 012-345-678, gọi 090-123-4567")
+    assert r.text == "CCCD [ID_NUMBER], CMND [ID_NUMBER], gọi [PHONE]"
+
+
+def test_short_account_labels():
+    assert redact("TK 0123456789 và số TK: 9876543210").text == "TK [ACCOUNT] và số TK: [ACCOUNT]"
+
+
+def test_undelimited_amounts_are_not_id_numbers():
+    text = "Vay 500000000đ, trả 120000000000 VND"
+    assert redact(text).text == text

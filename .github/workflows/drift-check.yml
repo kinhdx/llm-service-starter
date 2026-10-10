@@ -1,4 +1,4 @@
-name: re-record against the live model
+name: drift check against the live model
 
 # Weekly drift check: calls the model for every case and fails if the gate no longer passes.
 on:
