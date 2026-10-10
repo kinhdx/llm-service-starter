@@ -8,4 +8,4 @@ RUN uv sync --locked --no-dev
 ENV OTEL_CONSOLE=0
 EXPOSE 8000
 USER nobody
-CMD ["uv", "run", "--no-sync", "uvicorn", "service.api:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["/app/.venv/bin/uvicorn", "service.api:app", "--host", "0.0.0.0", "--port", "8000"]

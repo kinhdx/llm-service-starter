@@ -4,7 +4,7 @@
 
 Prompt changes are code changes: a reworded instruction can move accuracy by several points. The evaluation
 has to run on every pull request. Calling the model from CI needs a secret in every repository, costs money on
-each push, and gives slightly different answers on each run, which makes a failing gate hard to trust.
+each push, and gives different answers on each run, which makes a failing gate hard to trust.
 
 ## Decision
 
