@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "other",
+  "urgency": "low",
+  "summary": "Khách hàng đề nghị ngân hàng mở thêm chi nhánh tại khu vực Long Biên.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 809,
+  "output_tokens": 72,
+  "cost_usd": 0.00011690000000000001,
+  "seconds": 1.578
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "loan",
+  "urgency": "normal",
+  "summary": "Khách hàng bị tính phí phạt trả chậm hai lần cho cùng một kỳ vay dù đã thanh toán đúng hạn và có biên lai, yêu cầu hoàn lại khoản phí bị thu sai.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 834,
+  "output_tokens": 116,
+  "cost_usd": 0.0001414,
+  "seconds": 1.719
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "card",
+  "urgency": "high",
+  "summary": "Thẻ tín dụng của khách hàng bị khóa sau khi nhập sai PIN 3 lần khi đang ở Nhật, khách không còn phương tiện thanh toán nào khác và muốn được mở khóa thẻ ngay.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 849,
+  "output_tokens": 118,
+  "cost_usd": 0.0001439,
+  "seconds": 1.813
+ }
+}

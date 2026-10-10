@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "fraud",
+  "urgency": "high",
+  "summary": "Khách hàng bị mất điện thoại có cài ứng dụng ngân hàng và yêu cầu khóa ngay tài khoản trực tuyến, đồng thời cung cấp số điện thoại mới.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 837,
+  "output_tokens": 108,
+  "cost_usd": 0.00013769999999999999,
+  "seconds": 1.188
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "fraud",
+  "urgency": "high",
+  "summary": "Khách hàng phát hiện hai giao dịch rút tiền ATM tại Đà Nẵng trong sao kê tháng 9 dù họ ở Hà Nội cả tháng và không cho ai mượn thẻ, và yêu cầu ngân hàng kiểm tra và hoàn lại số tiền.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 846,
+  "output_tokens": 144,
+  "cost_usd": 0.0001566,
+  "seconds": 1.484
+ }
+}

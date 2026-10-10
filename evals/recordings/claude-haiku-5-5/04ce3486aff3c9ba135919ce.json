@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "card",
+  "urgency": "high",
+  "summary": "Thẻ ghi nợ đã hết hạn từ tháng trước nhưng khách hàng chưa nhận được thẻ mới, và cần thẻ để nhận lương; khách hàng yêu cầu bank cấp thẻ mới sớm.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 829,
+  "output_tokens": 120,
+  "cost_usd": 0.0001429,
+  "seconds": 1.75
+ }
+}

@@ -1,0 +1,7 @@
+{
+  "category_accuracy": 0.85,
+  "urgency_accuracy": 0.7,
+  "fraud_recall": 1.0,
+  "human_route_recall": 1.0,
+  "max_cost_per_case_usd": 0.002
+}

@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "other",
+  "urgency": "normal",
+  "summary": "Khách hàng phàn nàn nhân viên chi nhánh có thái độ kém và bắt chờ 2 tiếng khi đến rút tiền, yêu cầu ngân hàng phản hồi.",
+  "mentions_legal_action": true
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 851,
+  "output_tokens": 105,
+  "cost_usd": 0.0001376,
+  "seconds": 1.813
+ }
+}

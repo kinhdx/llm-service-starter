@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "fee",
+  "urgency": "normal",
+  "summary": "Khách hàng bị trừ phí SMS Banking 8.800đ mỗi tháng dù đã hủy dịch vụ từ đầu năm, và muốn ngân hàng hoàn lại các khoản phí đã thu sai và ngừng thu phí này.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 827,
+  "output_tokens": 126,
+  "cost_usd": 0.0001457,
+  "seconds": 1.844
+ }
+}

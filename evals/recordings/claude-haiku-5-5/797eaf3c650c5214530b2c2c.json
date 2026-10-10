@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "transfer",
+  "urgency": "high",
+  "summary": "Khách hàng chuyển nhầm 2 triệu đồng vào số tài khoản của người lạ và yêu cầu ngân hàng hỗ trợ đòi lại số tiền này.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 831,
+  "output_tokens": 101,
+  "cost_usd": 0.00013360000000000002,
+  "seconds": 1.609
+ }
+}

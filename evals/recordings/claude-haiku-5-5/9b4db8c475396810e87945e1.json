@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "fraud",
+  "urgency": "high",
+  "summary": "Khách hàng phát hiện thẻ tín dụng có 3 giao dịch nhỏ 1 USD tại các trang web nước ngoài và một giao dịch 450 USD mà họ không thực hiện, và muốn ngân hàng kiểm tra, khóa thẻ và xử lý.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 849,
+  "output_tokens": 138,
+  "cost_usd": 0.0001539,
+  "seconds": 1.735
+ }
+}

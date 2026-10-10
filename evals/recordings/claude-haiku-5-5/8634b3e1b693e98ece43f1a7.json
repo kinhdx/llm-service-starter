@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "card",
+  "urgency": "normal",
+  "summary": "Máy ATM chỉ trả thiếu 500 nghìn trong khi khách rút 3 triệu đồng lúc 18h ngày 08/10, nhưng sao kê vẫn trừ đủ 3 triệu, và khách muốn ngân hàng kiểm tra và hoàn lại số tiền thiếu.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 848,
+  "output_tokens": 252,
+  "cost_usd": 0.0002108,
+  "seconds": 2.39
+ }
+}

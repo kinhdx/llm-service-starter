@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "fraud",
+  "urgency": "high",
+  "summary": "Khách hàng bị người lạ tự xưng nhân viên ngân hàng qua Zalo lừa cài file ứng dụng với lý do hỗ trợ vay, sau đó tài khoản bị mất 12 triệu đồng và khách muốn được xử lý, hoàn tiền.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 851,
+  "output_tokens": 136,
+  "cost_usd": 0.00015310000000000004,
+  "seconds": 1.922
+ }
+}

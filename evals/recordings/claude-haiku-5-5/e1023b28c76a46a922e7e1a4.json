@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "loan",
+  "urgency": "normal",
+  "summary": "Khách hàng đã tất toán khoản vay tín chấp từ tháng 6 nhưng thông tin tín dụng vẫn ghi còn dư nợ, khiến họ không thể vay ở ngân hàng khác; khách yêu cầu sửa lại thông tin ngay.",
+  "mentions_legal_action": true
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 894,
+  "output_tokens": 134,
+  "cost_usd": 0.0001564,
+  "seconds": 1.656
+ }
+}

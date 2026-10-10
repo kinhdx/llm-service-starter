@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "fee",
+  "urgency": "normal",
+  "summary": "Khách hàng bị trừ phí chuyển tiền 3.300đ cho giao dịch nội bộ trong khi gói tài khoản của họ được miễn phí chuyển khoản, và muốn hoàn lại khoản phí này.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 834,
+  "output_tokens": 117,
+  "cost_usd": 0.0001419,
+  "seconds": 1.813
+ }
+}

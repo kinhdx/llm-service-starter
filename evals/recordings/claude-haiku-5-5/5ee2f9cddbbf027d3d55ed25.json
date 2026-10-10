@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "card",
+  "urgency": "normal",
+  "summary": "Khách hàng phản ánh phí thường niên thẻ tín dụng năm nay tăng từ 300 nghìn lên 500 nghìn đồng mà không được thông báo trước, và yêu cầu được miễn phí năm đầu theo cam kết.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 850,
+  "output_tokens": 123,
+  "cost_usd": 0.0001465,
+  "seconds": 1.203
+ }
+}

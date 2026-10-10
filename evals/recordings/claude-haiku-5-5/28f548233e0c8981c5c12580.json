@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "account",
+  "urgency": "low",
+  "summary": "Khách hàng hỏi thủ tục thay đổi số điện thoại nhận OTP do đã đổi sim.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 817,
+  "output_tokens": 73,
+  "cost_usd": 0.0001182,
+  "seconds": 1.594
+ }
+}

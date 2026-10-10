@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "loan",
+  "urgency": "normal",
+  "summary": "Khoản giải ngân vay kinh doanh bị chậm 3 ngày so với cam kết của ngân hàng, ảnh hưởng đến việc nhập hàng của khách hàng, và khách hàng muốn ngân hàng giải thích và xử lý nhanh việc giải ngân.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 832,
+  "output_tokens": 137,
+  "cost_usd": 0.0001517,
+  "seconds": 1.672
+ }
+}

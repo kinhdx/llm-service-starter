@@ -1,0 +1,40 @@
+{"id": "c01", "text": "Thẻ ATM của tôi bị nuốt ở cây ATM đường Láng lúc 9h sáng nay, tôi cần lấy lại thẻ gấp vì chiều phải thanh toán tiền viện cho mẹ.", "category": "card", "urgency": "high", "legal": false}
+{"id": "c02", "text": "Tôi chuyển 15 triệu sang tài khoản Vietcombank từ hôm qua mà bên nhận vẫn chưa nhận được, tài khoản tôi đã bị trừ tiền. Đề nghị kiểm tra.", "category": "transfer", "urgency": "high", "legal": false}
+{"id": "c03", "text": "Sáng nay tôi nhận tin nhắn trừ 4.990.000đ mua hàng online nhưng tôi không hề thực hiện giao dịch này. Thẻ tôi vẫn đang cầm trên tay. Số thẻ 4111 1111 1111 1111.", "category": "fraud", "urgency": "high", "legal": false}
+{"id": "c04", "text": "Có người gọi điện số 0912345678 xưng là nhân viên ngân hàng, bảo tôi đọc mã OTP để nâng hạng thẻ. Tôi lỡ đọc rồi, giờ phải làm sao?", "category": "fraud", "urgency": "high", "legal": false}
+{"id": "c05", "text": "Kỳ trả nợ tháng này của khoản vay mua xe bị tính lãi cao hơn lịch trả nợ trong hợp đồng khoảng 300 nghìn. Nhờ ngân hàng giải thích.", "category": "loan", "urgency": "normal", "legal": false}
+{"id": "c06", "text": "App ngân hàng cứ báo lỗi hệ thống mỗi khi đăng nhập từ tối qua, tôi đã cài lại nhưng vẫn không vào được.", "category": "account", "urgency": "normal", "legal": false}
+{"id": "c07", "text": "Tại sao tài khoản của tôi bị trừ phí duy trì 11.000đ mỗi tháng trong khi lúc mở tài khoản nhân viên nói miễn phí? Đề nghị hoàn lại.", "category": "fee", "urgency": "normal", "legal": false}
+{"id": "c08", "text": "Đề xuất ngân hàng bổ sung chế độ tối cho ứng dụng, ban đêm dùng hơi chói mắt.", "category": "account", "urgency": "low", "legal": false}
+{"id": "c09", "text": "Tôi đã tất toán khoản vay tín chấp từ tháng 6 nhưng thông tin tín dụng vẫn ghi đang còn dư nợ, làm tôi không vay được ở ngân hàng khác. Nếu tuần này không xử lý tôi sẽ gửi đơn lên Ngân hàng Nhà nước.", "category": "loan", "urgency": "normal", "legal": true}
+{"id": "c10", "text": "Quét mã QR thanh toán ở cửa hàng tiện lợi, tiền đã trừ nhưng cửa hàng báo chưa nhận. Mã giao dịch FT2610001234.", "category": "transfer", "urgency": "normal", "legal": false}
+{"id": "c11", "text": "Thẻ tín dụng của tôi bị khóa sau khi nhập sai PIN 3 lần ở nước ngoài, tôi đang ở Nhật và không còn phương tiện thanh toán nào khác.", "category": "card", "urgency": "high", "legal": false}
+{"id": "c12", "text": "Tôi nhận được email giả mạo ngân hàng yêu cầu cập nhật thông tin, đã bấm vào link và nhập tên đăng nhập, mật khẩu. Liên hệ tôi qua nguyenvana@gmail.com.", "category": "fraud", "urgency": "high", "legal": false}
+{"id": "c13", "text": "Phí thường niên thẻ tín dụng năm nay tăng từ 300 nghìn lên 500 nghìn mà không có thông báo trước. Tôi muốn được miễn phí năm đầu như cam kết.", "category": "card", "urgency": "normal", "legal": false}
+{"id": "c14", "text": "Tôi muốn hỏi thủ tục thay đổi số điện thoại nhận OTP vì đã đổi sim.", "category": "account", "urgency": "low", "legal": false}
+{"id": "c15", "text": "Chuyển nhầm 2 triệu vào STK 0123456789 của người lạ, nhờ ngân hàng hỗ trợ đòi lại.", "category": "transfer", "urgency": "normal", "legal": false}
+{"id": "c16", "text": "Nhân viên chi nhánh thái độ rất tệ khi tôi đến rút tiền, bắt tôi chờ 2 tiếng. Tôi sẽ đăng lên báo nếu không có phản hồi.", "category": "other", "urgency": "normal", "legal": true}
+{"id": "c17", "text": "Tài khoản của tôi tự nhiên bị chuyển đi 30 triệu lúc 2h sáng sang một tài khoản tôi không biết. Tôi đã báo công an phường.", "category": "fraud", "urgency": "high", "legal": true}
+{"id": "c18", "text": "Lịch trả nợ khoản vay mua nhà gửi qua email bị sai ngày, ghi ngày 30/2. Nhờ gửi lại bản đúng.", "category": "loan", "urgency": "low", "legal": false}
+{"id": "c19", "text": "Bị trừ phí chuyển tiền 3.300đ cho giao dịch nội bộ dù gói tài khoản của tôi là miễn phí chuyển khoản.", "category": "fee", "urgency": "low", "legal": false}
+{"id": "c20", "text": "Hôm nay là hạn cuối nộp học phí cho con mà lệnh chuyển tiền của tôi bị treo ở trạng thái đang xử lý từ sáng.", "category": "transfer", "urgency": "high", "legal": false}
+{"id": "c21", "text": "Tôi không mở được tài khoản online vì app không nhận diện được ảnh CCCD 001190012345 dù đã chụp lại nhiều lần.", "category": "account", "urgency": "normal", "legal": false}
+{"id": "c22", "text": "Thẻ ghi nợ hết hạn từ tháng trước mà chưa nhận được thẻ mới, tôi cần thẻ để nhận lương.", "category": "card", "urgency": "normal", "legal": false}
+{"id": "c23", "text": "Ngân hàng tự ý trích tiền trong tài khoản thanh toán để trả nợ thẻ tín dụng khi chưa đến hạn. Tôi yêu cầu hoàn trả và giải thích căn cứ.", "category": "card", "urgency": "normal", "legal": false}
+{"id": "c24", "text": "Có tin nhắn từ đầu số lạ báo tài khoản bị khóa, yêu cầu truy cập đường link để mở. Tôi chưa bấm, chỉ báo để ngân hàng biết.", "category": "fraud", "urgency": "normal", "legal": false}
+{"id": "c25", "text": "Tôi muốn tất toán khoản vay trước hạn nhưng tổng đài báo phí 3%, trong khi hợp đồng ghi 1%. Đề nghị kiểm tra lại.", "category": "loan", "urgency": "normal", "legal": false}
+{"id": "c26", "text": "Gọi tổng đài 3 lần đều chờ quá 20 phút không ai nghe máy.", "category": "other", "urgency": "low", "legal": false}
+{"id": "c27", "text": "Sao kê tháng 9 có 2 giao dịch rút tiền ATM tại Đà Nẵng trong khi tôi ở Hà Nội cả tháng và không cho ai mượn thẻ.", "category": "fraud", "urgency": "high", "legal": false}
+{"id": "c28", "text": "Phí phạt trả chậm khoản vay bị tính 2 lần cho cùng một kỳ. Tôi đã thanh toán đúng hạn, có biên lai.", "category": "loan", "urgency": "normal", "legal": false}
+{"id": "c29", "text": "Tôi cần xác nhận số dư tài khoản bằng tiếng Anh để làm hồ sơ du học cho con, làm ở đâu?", "category": "account", "urgency": "low", "legal": false}
+{"id": "c30", "text": "Máy ATM trả thiếu 500 nghìn khi tôi rút 3 triệu, sao kê vẫn trừ đủ 3 triệu. Giao dịch lúc 18h ngày 08/10.", "category": "card", "urgency": "normal", "legal": false}
+{"id": "c31", "text": "Tài khoản bị trừ phí SMS Banking 8.800đ/tháng dù tôi đã hủy dịch vụ từ đầu năm.", "category": "fee", "urgency": "low", "legal": false}
+{"id": "c32", "text": "Ngân hàng xử lý khiếu nại của tôi quá chậm, đã 45 ngày chưa trả lời. Tôi sẽ khởi kiện ra tòa nếu không được giải quyết.", "category": "other", "urgency": "normal", "legal": true}
+{"id": "c33", "text": "Lương công ty chuyển vào tài khoản từ sáng nhưng số dư không thay đổi, công ty xác nhận đã chuyển thành công.", "category": "transfer", "urgency": "normal", "legal": false}
+{"id": "c34", "text": "Tôi bị mất điện thoại có cài app ngân hàng, cần khóa ngay tài khoản trực tuyến. Số điện thoại mới của tôi +84987654321.", "category": "account", "urgency": "high", "legal": false}
+{"id": "c35", "text": "Thẻ tín dụng phát sinh 3 giao dịch nhỏ 1 đô la tại các trang web nước ngoài tôi không biết, rồi tiếp theo là một giao dịch 450 đô.", "category": "fraud", "urgency": "high", "legal": false}
+{"id": "c36", "text": "Khoản giải ngân vay kinh doanh bị chậm 3 ngày so với cam kết, ảnh hưởng tới việc nhập hàng của tôi.", "category": "loan", "urgency": "normal", "legal": false}
+{"id": "c37", "text": "Đề nghị ngân hàng mở thêm chi nhánh ở khu vực Long Biên.", "category": "other", "urgency": "low", "legal": false}
+{"id": "c38", "text": "Tôi bị tính phí rút tiền mặt từ thẻ tín dụng khi chỉ thanh toán hóa đơn điện qua app. Phí 4% là vô lý.", "category": "card", "urgency": "normal", "legal": false}
+{"id": "c39", "text": "Người lạ nhắn Zalo tự xưng nhân viên ngân hàng, gửi file cài đặt app để hỗ trợ vay, tôi đã cài và sau đó tài khoản mất 12 triệu.", "category": "fraud", "urgency": "high", "legal": false}
+{"id": "c40", "text": "Phí quản lý tài khoản doanh nghiệp bị thu 2 lần trong tháng 9.", "category": "fee", "urgency": "normal", "legal": false}

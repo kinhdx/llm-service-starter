@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "loan",
+  "urgency": "normal",
+  "summary": "Kỳ trả nợ tháng này của khoản vay mua xe bị tính lãi cao hơn khoảng 300 nghìn so với lịch trả nợ trong hợp đồng, khách hàng yêu cầu ngân hàng giải thích.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 854,
+  "output_tokens": 122,
+  "cost_usd": 0.0001464,
+  "seconds": 1.797
+ }
+}

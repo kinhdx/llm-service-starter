@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "fraud",
+  "urgency": "normal",
+  "summary": "Khách hàng phản ánh ngân hàng tự ý trích tiền từ tài khoản thanh toán để trả nợ thẻ tín dụng khi chưa đến hạn và yêu cầu hoàn trả số tiền đã trích cùng giải thích căn cứ pháp lý.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 855,
+  "output_tokens": 338,
+  "cost_usd": 0.0002545,
+  "seconds": 2.563
+ }
+}

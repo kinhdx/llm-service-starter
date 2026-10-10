@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "account",
+  "urgency": "low",
+  "summary": "Khách hàng đề xuất ngân hàng bổ sung chế độ tối (dark mode) cho ứng dụng vì ban đêm sử dụng bị chói mắt.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 823,
+  "output_tokens": 94,
+  "cost_usd": 0.0001293,
+  "seconds": 1.719
+ }
+}

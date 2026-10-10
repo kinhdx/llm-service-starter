@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "fraud",
+  "urgency": "normal",
+  "summary": "Khách hàng nhận tin nhắn từ đầu số lạ thông báo tài khoản bị khóa và yêu cầu truy cập đường link; khách chưa bấm link và chỉ muốn báo cho ngân hàng biết.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 848,
+  "output_tokens": 118,
+  "cost_usd": 0.0001438,
+  "seconds": 1.859
+ }
+}

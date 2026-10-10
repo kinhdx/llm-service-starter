@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "account",
+  "urgency": "low",
+  "summary": "Khách hàng hỏi nơi có thể xác nhận số dư tài khoản bằng tiếng Anh để nộp hồ sơ du học cho con.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 826,
+  "output_tokens": 87,
+  "cost_usd": 0.0001261,
+  "seconds": 1.641
+ }
+}

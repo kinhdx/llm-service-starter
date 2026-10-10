@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "loan",
+  "urgency": "normal",
+  "summary": "Khách hàng muốn tất toán khoản vay trước hạn nhưng tổng đài báo phí 3%, trong khi hợp đồng ghi 1%, và yêu cầu ngân hàng kiểm tra lại.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 844,
+  "output_tokens": 113,
+  "cost_usd": 0.0001409,
+  "seconds": 1.11
+ }
+}

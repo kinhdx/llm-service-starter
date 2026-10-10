@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "card",
+  "urgency": "high",
+  "summary": "Thẻ ATM của khách hàng bị nuốt tại cây ATM đường Láng lúc 9h sáng nay, khách cần lấy lại thẻ gấp vì chiều nay phải thanh toán tiền viện cho mẹ.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 857,
+  "output_tokens": 118,
+  "cost_usd": 0.0001447,
+  "seconds": 2.547
+ }
+}

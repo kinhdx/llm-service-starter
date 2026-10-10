@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "other",
+  "urgency": "normal",
+  "summary": "Khách hàng gọi tổng đài 3 lần đều phải chờ hơn 20 phút mà không có nhân viên nghe máy, và muốn được hỗ trợ nhanh hơn.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 809,
+  "output_tokens": 102,
+  "cost_usd": 0.0001319,
+  "seconds": 1.781
+ }
+}

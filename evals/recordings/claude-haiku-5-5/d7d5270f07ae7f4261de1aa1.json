@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "fraud",
+  "urgency": "high",
+  "summary": "Khách hàng bị người gọi xưng là nhân viên ngân hàng lừa đọc mã OTP và đã làm theo, nay hỏi cần xử lý thế nào để bảo vệ tài khoản.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 856,
+  "output_tokens": 109,
+  "cost_usd": 0.00014010000000000002,
+  "seconds": 1.812
+ }
+}

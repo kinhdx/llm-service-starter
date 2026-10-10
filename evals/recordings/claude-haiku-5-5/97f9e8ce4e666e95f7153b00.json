@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "fraud",
+  "urgency": "high",
+  "summary": "Khách hàng nhận tin nhắn trừ 4.990.000đ cho giao dịch mua hàng online sáng nay mà họ không thực hiện, thẻ vẫn còn trong tay, và muốn ngân hàng xử lý giao dịch gian lận này.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 864,
+  "output_tokens": 129,
+  "cost_usd": 0.0001509,
+  "seconds": 1.75
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "account",
+  "urgency": "normal",
+  "summary": "Khách hàng không thể đăng nhập ứng dụng ngân hàng từ tối qua do lỗi hệ thống, dù đã cài lại app, và muốn được hỗ trợ khắc phục để truy cập tài khoản.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 836,
+  "output_tokens": 115,
+  "cost_usd": 0.00014110000000000001,
+  "seconds": 1.766
+ }
+}

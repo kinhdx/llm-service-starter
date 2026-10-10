@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "loan",
+  "urgency": "normal",
+  "summary": "Khách hàng cho biết lịch trả nợ khoản vay mua nhà gửi qua email ghi ngày 30/2 là sai và yêu cầu ngân hàng gửi lại bản đúng.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 834,
+  "output_tokens": 106,
+  "cost_usd": 0.0001364,
+  "seconds": 1.812
+ }
+}

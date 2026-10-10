@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "transfer",
+  "urgency": "high",
+  "summary": "Lệnh chuyển tiền của khách hàng đã treo ở trạng thái đang xử lý từ sáng, trong khi hôm nay là hạn cuối nộp học phí cho con; khách muốn ngân hàng xử lý gấp để tiền được chuyển đi.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 836,
+  "output_tokens": 131,
+  "cost_usd": 0.00014910000000000002,
+  "seconds": 1.828
+ }
+}

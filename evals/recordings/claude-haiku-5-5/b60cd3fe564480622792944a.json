@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "fee",
+  "urgency": "normal",
+  "summary": "Khách hàng thắc mắc vì sao tài khoản bị trừ phí duy trì 11.000đ mỗi tháng trong khi nhân viên lúc mở tài khoản nói là miễn phí, và yêu cầu hoàn lại số tiền đã thu.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 852,
+  "output_tokens": 129,
+  "cost_usd": 0.00014969999999999998,
+  "seconds": 1.843
+ }
+}

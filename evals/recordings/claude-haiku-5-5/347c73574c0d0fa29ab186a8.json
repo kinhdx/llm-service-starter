@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "transfer",
+  "urgency": "high",
+  "summary": "Khách hàng thanh toán QR tại cửa hàng tiện lợi, tiền đã bị trừ nhưng cửa hàng báo chưa nhận được tiền và khách yêu cầu kiểm tra, xử lý giao dịch FT2610001234.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 843,
+  "output_tokens": 126,
+  "cost_usd": 0.0001473,
+  "seconds": 1.75
+ }
+}

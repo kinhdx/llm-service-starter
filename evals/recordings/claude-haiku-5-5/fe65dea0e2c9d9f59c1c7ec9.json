@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "fee",
+  "urgency": "normal",
+  "summary": "Khách hàng doanh nghiệp phản ánh phí quản lý tài khoản đã bị thu 2 lần trong tháng 9 và yêu cầu hoàn lại khoản thu trùng.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 811,
+  "output_tokens": 105,
+  "cost_usd": 0.00013360000000000002,
+  "seconds": 1.625
+ }
+}

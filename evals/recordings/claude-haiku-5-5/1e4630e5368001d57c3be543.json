@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "account",
+  "urgency": "normal",
+  "summary": "Khách hàng không thể mở tài khoản online vì ứng dụng không nhận diện được ảnh CCCD dù đã chụp lại nhiều lần, và muốn được hỗ trợ hoàn tất việc mở tài khoản.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 832,
+  "output_tokens": 117,
+  "cost_usd": 0.0001417,
+  "seconds": 4.219
+ }
+}

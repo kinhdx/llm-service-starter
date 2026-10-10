@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "fraud",
+  "urgency": "high",
+  "summary": "Tài khoản của khách hàng bị chuyển đi 30 triệu đồng lúc 2 giờ sáng sang một tài khoản khách không quen biết, khách không thực hiện giao dịch này và đã trình báo công an phường; khách muốn ngân hàng xử lý và hoàn lại số tiền.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 841,
+  "output_tokens": 144,
+  "cost_usd": 0.00015610000000000003,
+  "seconds": 1.89
+ }
+}

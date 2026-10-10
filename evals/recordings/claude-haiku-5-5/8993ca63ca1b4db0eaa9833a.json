@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "other",
+  "urgency": "normal",
+  "summary": "Khách hàng phản ánh ngân hàng xử lý khiếu nại quá chậm, đã 45 ngày chưa có phản hồi, và yêu cầu giải quyết gấp nếu không sẽ khởi kiện ra tòa.",
+  "mentions_legal_action": true
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 847,
+  "output_tokens": 119,
+  "cost_usd": 0.00014419999999999998,
+  "seconds": 1.672
+ }
+}

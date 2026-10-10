@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "transfer",
+  "urgency": "high",
+  "summary": "Lương từ công ty đã được chuyển vào tài khoản từ sáng nhưng số dư chưa thay đổi, dù công ty xác nhận đã chuyển thành công; khách hàng muốn ngân hàng kiểm tra và ghi nhận khoản tiền.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 828,
+  "output_tokens": 131,
+  "cost_usd": 0.0001483,
+  "seconds": 1.843
+ }
+}

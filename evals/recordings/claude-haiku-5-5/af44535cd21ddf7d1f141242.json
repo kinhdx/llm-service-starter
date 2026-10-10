@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "fraud",
+  "urgency": "high",
+  "summary": "Khách hàng nhận email giả mạo ngân hàng, đã bấm link và nhập tên đăng nhập cùng mật khẩu, và muốn ngân hàng hỗ trợ xử lý rủi ro cho tài khoản.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 856,
+  "output_tokens": 118,
+  "cost_usd": 0.00014460000000000002,
+  "seconds": 1.843
+ }
+}

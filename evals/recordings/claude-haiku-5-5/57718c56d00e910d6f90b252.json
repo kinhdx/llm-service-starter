@@ -1,0 +1,15 @@
+{
+ "output": {
+  "category": "card",
+  "urgency": "normal",
+  "summary": "Khách hàng bị tính phí rút tiền mặt 4% từ thẻ tín dụng dù chỉ thanh toán hóa đơn điện qua ứng dụng, và cho rằng mức phí này là vô lý; khách muốn được xem xét hoàn phí.",
+  "mentions_legal_action": false
+ },
+ "usage": {
+  "model": "claude-haiku-5-5",
+  "input_tokens": 838,
+  "output_tokens": 129,
+  "cost_usd": 0.0001483,
+  "seconds": 1.828
+ }
+}
