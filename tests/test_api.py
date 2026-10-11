@@ -21,3 +21,18 @@ def test_triage_endpoint_returns_route_and_redaction_counts():
 def test_healthz_reports_prompt_version():
     body = TestClient(api.app).get("/healthz").json()
     assert body["status"] == "ok" and body["prompt_version"]
+
+
+def test_provider_outage_answers_502(monkeypatch):
+    from service.llm import AnthropicClient
+
+    monkeypatch.setenv("ANTHROPIC_API_KEY", "test-key")
+    monkeypatch.setenv("ANTHROPIC_BASE_URL", "http://127.0.0.1:9")  # nothing listens here
+    client = AnthropicClient(timeout=5.0, max_retries=0)
+    api.app.dependency_overrides[api.get_client] = lambda: client
+    try:
+        response = TestClient(api.app).post("/triage", json={"text": "Thẻ của tôi bị khóa từ sáng"})
+    finally:
+        api.app.dependency_overrides.clear()
+    assert response.status_code == 502
+    assert response.json()["detail"]

@@ -75,6 +75,7 @@ class AnthropicClient:
         import anthropic
 
         self._client = anthropic.Anthropic(timeout=timeout, max_retries=max_retries)
+        self._api_error = anthropic.APIError
 
     def complete(self, request: Request) -> tuple[dict, Usage]:
         params = dict(model=request.model, max_tokens=2000, system=request.system,
@@ -84,7 +85,10 @@ class AnthropicClient:
         if request.model in FALLBACK_MODELS:
             params.update(betas=["server-side-fallback-2026-07-01"], fallbacks="default")
         started = time.monotonic()
-        response = self._client.beta.messages.create(**params)
+        try:
+            response = self._client.beta.messages.create(**params)
+        except self._api_error as e:  # the SDK has used up its retries; the caller answers 502
+            raise ModelError(f"model call failed: {e.__class__.__name__}") from e
         usage = Usage(response.model, response.usage.input_tokens, response.usage.output_tokens,
                       cost_usd(response.model, response.usage.input_tokens, response.usage.output_tokens),
                       round(time.monotonic() - started, 3))
@@ -93,7 +97,10 @@ class AnthropicClient:
         text = next((b.text for b in response.content if b.type == "text"), None)
         if text is None:
             raise ModelError("no structured answer was returned")
-        return json.loads(text), usage
+        try:
+            return json.loads(text), usage
+        except json.JSONDecodeError as e:
+            raise ModelError("the structured answer is not valid JSON") from e
 
 
 class ReplayClient:
